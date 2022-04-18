@@ -16,9 +16,10 @@
 - [License](#license)
 - [Credits](#credits)
 
-https://idjh263.github.io/irene-react-portfolio/
 
-<img width="800" alt="irene_portfolio" src="https://user-images.githubusercontent.com/92761848/162650171-6af3d0ce-f7cd-4079-b17f-e31aff33d9cf.png">
+<img width="400" alt="Screen Shot 2022-04-17 at 10 01 11 PM" src="https://user-images.githubusercontent.com/92761848/163742963-6e2d2f61-62a2-4fc5-af93-0525376670a5.png">
+
+
 
 ## Installation
 💾 1. download or clone file 
@@ -50,4 +51,5 @@ _ React Redux
 https://opensource.org/licenses/MIT
 
 ## Credits 
-👪 Made by Irene with the help TA's, instructor @Trilogy, coding vloggers 
+👪 Made by Irene with the help TA's, instructor @Trilogy, net ninja, https://github.com/reduxjs/redux-devtools/tree/main/extension , MAsuamah, 
+https://redux-toolkit.js.org/
