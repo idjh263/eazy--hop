@@ -25,11 +25,12 @@ https://idjh263.github.io/irene-react-portfolio/
    2. npm install or npm i - to download the dependencies 
    
 
-
+deployed URL application: https://glacial-reaches-26063.herokuapp.com/
 
 
 ## Usage
-
+ 
+ - E-commerce site with Redux.  
 
 Built with:
 
